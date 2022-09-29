@@ -1,7 +1,7 @@
 module.exports = {
     apps: [
         {
-            name: "app-front",
+            name: "app-front4",
             script: "npm",
             args: "run start",
         },
